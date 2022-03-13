@@ -9,8 +9,11 @@
 }
 
 #search_button {
+    color: #FFFFFF;
+    font-size: 18px;
+    
     background-color: #FF5A5F;
-    float: left;
+    float: right;
     height: 48px;
     width: 20%;
     border-radius: 4px;
@@ -21,12 +24,6 @@
 #search_button:hover {
     opacity: 90%;
     transition: 0.7s;
-}
-
-.button_text {
-    color: #FFFFFF;
-    font-size: 18px;
-    margin: auto;
 }
 
 .locations {
